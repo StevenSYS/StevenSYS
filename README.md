@@ -24,7 +24,7 @@ AMD FX(tm)-4300 Quad-Core Processor
 
 (SATA III) Crucial BX500 2TB (Stuff) (Model Number: CT2000BX500SSD1)
 
-(Front USB 2.0) SanDisk Cruzer Blade 128GB (VMs)
+(Back USB 2.0) SanDisk Cruzer Blade 128GB (VMs)
 # Monitor
 # HP 22kd
 1 VGA Port

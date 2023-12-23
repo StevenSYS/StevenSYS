@@ -20,7 +20,7 @@ ASUS M5A97 R2.0
 # CPU
 AMD FX(tm)-4300 Quad-Core Processor
 # Drives
-(SATA III) SanDisk SSD PLUS 240GB (Ubuntu 22.04.3 LTS) (Boot Drive)
+(SATA III) SanDisk SSD PLUS 480GB (Arch Linux) (Boot Drive)
 
 (SATA III) Crucial BX500 2TB (Stuff) (Model Number: CT2000BX500SSD1)
 

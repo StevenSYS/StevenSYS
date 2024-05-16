@@ -20,7 +20,7 @@ ASUS M5A97 R2.0
 # CPU
 AMD FX(tm)-4300 Quad-Core Processor
 # Drives
-(SATA III) SanDisk SSD PLUS 480GB (Arch Linux) (Boot Drive)
+(SATA III) SanDisk SSD PLUS 480GB (Arch Linux) (Part Number: UG4304RL)
 # Monitor
 # HP 22kd
 1 VGA Port

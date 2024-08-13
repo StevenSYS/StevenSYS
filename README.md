@@ -2,10 +2,10 @@
 - Running FreeDOS off a SD Card...On a modern computer.
 - Running OPENSTEP 4.2 on a Windows 95 laptop.
 - Running Windows Vista on a laptop... A laptop that came with Windows 7.
-- And much more!
+- And more!
 
 # Also here's the specs of my main PC!
-Computer Brand: PCSpecialist
+Computer Brand: PC Specialist
 # RAM
 Port 1: Empty
 
@@ -18,9 +18,9 @@ Port 4: Samsung 4GB DDR3 (Part Number: M378B5173EB0-YK0)
 # Motherboard
 ASUS M5A97 R2.0
 # CPU
-AMD FX(tm)-4300 Quad-Core Processor
-# Drives
-(SATA III) SanDisk SSD PLUS 480GB (Arch Linux) (Part Number: UG4304RL)
+AMD FX-4300 Quad-Core Processor
+# Drive
+SanDisk SSD PLUS 480GB (Arch Linux) (Part Number: UG4304RL)
 # Monitor
 # HP 22kd
 1 VGA Port

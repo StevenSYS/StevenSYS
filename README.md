@@ -1,7 +1,8 @@
 # Hi I'm Steven! I do weird things with computers, like...
-- Running FreeDOS off a SD Card...On a modern computer.
-- Running OPENSTEP 4.2 on a Windows 95 laptop.
-- Running Windows Vista on a laptop... A laptop that came with Windows 7.
+- Running FreeDOS off a SD Card...On a modern computer,
+- Running OPENSTEP 4.2 on a Windows 95 laptop,
+- Running Windows Vista on a laptop... A laptop that came with Windows 7,
+- Trying to run Arch Linux on anything I can,
 - And more!
 
 # Also here's the specs of my main PC!

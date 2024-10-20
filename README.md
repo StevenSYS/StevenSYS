@@ -23,10 +23,10 @@ AMD FX-4300 Quad-Core Processor
 # Drive
 SanDisk SSD PLUS 480GB (Arch Linux) (Part Number: UG4304RL)
 # Monitor
-# HP 22kd
+# HP 22m
 1 VGA Port
 
-1 DVI Port
+1 HDMI Port
 # GPU
 # NVIDIA GeForce RTX 3050
 1 HDMI Port
